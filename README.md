@@ -1,0 +1,3 @@
+# Calculator
+
+the equal function on the calculator keeps saying undefined and i have no idea why.....
